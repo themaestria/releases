@@ -1,1 +1,1 @@
-Primeira versão com atualização automática via Sparkle. Correção: seleção de texto por clique-arrasto dentro do terminal/post-it/navegador não move mais o node sem querer.
+Build universal (arm64 + x86_64) — a mesma v0.21.0 agora funciona em Mac Intel também.
