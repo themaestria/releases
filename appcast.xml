@@ -10,9 +10,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/themaestria/releases/main/Maestria-0.22.0.txt</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/themaestria/releases/releases/download/v0.22.0/Maestria-0.22.0.dmg" length="3348943" type="application/octet-stream" sparkle:edSignature="aGK1JrvsZyTXRju/8Bep5aLREvwtYmz42a+c7WVgZvGk2o0HvKYr2Et2jqL9is/ee8swEip+xpQPLTT8vmIvDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/themaestria/releases/releases/download/v0.22.0/Maestria22-21.delta" sparkle:deltaFrom="21" length="2078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Yu8xQUgQpkS74MrroXAF8ANAXmOi71ZX56XWnPg0Rr6K5jp22rWueQEfIadSUDE1Ql2Sif4DC7iLjCjPXQYaBA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.21.0</title>
@@ -21,7 +18,7 @@
             <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/themaestria/releases/main/Maestria-0.21.0.txt</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/themaestria/releases/releases/download/v0.22.0/Maestria-0.21.0.dmg" length="3348930" type="application/octet-stream" sparkle:edSignature="OmvF7dRJZLsTkLWxRqt0qSONezBj8MJc88J/JLnq71lYTNtBMvpQf0DlslctOxImLH2buFpqzLuMsbAX+HLjBA=="/>
+            <enclosure url="https://github.com/themaestria/releases/releases/download/v0.21.0/Maestria-0.21.0.dmg" length="3348930" type="application/octet-stream" sparkle:edSignature="OmvF7dRJZLsTkLWxRqt0qSONezBj8MJc88J/JLnq71lYTNtBMvpQf0DlslctOxImLH2buFpqzLuMsbAX+HLjBA=="/>
         </item>
     </channel>
 </rss>
