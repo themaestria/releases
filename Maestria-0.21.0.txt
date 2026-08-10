@@ -1,0 +1,1 @@
+Primeira versão com atualização automática via Sparkle. Correção: seleção de texto por clique-arrasto dentro do terminal/post-it/navegador não move mais o node sem querer.
