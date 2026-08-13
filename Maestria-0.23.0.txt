@@ -1,0 +1,1 @@
+Terminais continuam rodando ao trocar de workspace, e o app avisa antes de fechar se algum terminal ainda estiver em execução.
