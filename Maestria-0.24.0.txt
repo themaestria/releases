@@ -1,0 +1,1 @@
+Novo botão ✨ IA nos menus de criação: cria um terminal que já roda o Claude Code com acesso ao seu canvas. Descreva o que quer construir e ele cria e conecta terminais, navegadores e post-its de verdade — pedidos maiores viram automaticamente uma rede de agentes especializados, cada um já com sua tarefa.
