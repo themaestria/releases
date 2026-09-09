@@ -1,0 +1,3 @@
+Corrigido: alias de conta alternativa do Claude no terminal (ex: claude-trabalho1/2) voltou a funcionar; bolinha de conexão, alça de resize e botão de fechar não descolam mais da janela durante arrasto/resize; linha de conexão segue o arrasto em tempo real e não entra mais dentro das janelas que liga; barra do post-it não fica mais transparente.
+Adicionado: linha de conexão desvia de outras janelas no caminho; linha pisca cinza/azul quando uma ação passa por ela (sinal de atividade).
+Alterado: linhas de conexão pontilhadas; seleção de janela com contorno pontilhado azul; terminais com fundo claro e rodapé com diretório de trabalho; amarelo do post-it mais suave.
