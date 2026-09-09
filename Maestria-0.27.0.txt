@@ -1,0 +1,2 @@
+Adicionado: estilo de traço (sólido/tracejado/pontilhado) e de preenchimento (sem/hachura/hachura cruzada/tinta/sólido) no menu de desenho; formas de desenho agora podem se conectar entre si ou a um terminal/post-it/navegador normal, com a linha seguindo ao vivo quando qualquer lado move — transformando o menu de desenho num editor de organograma/fluxograma de verdade.
+Corrigido: clique parado com a caneta às vezes criava um ponto fantasma invisível no canvas.
