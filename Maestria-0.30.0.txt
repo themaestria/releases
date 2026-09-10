@@ -1,0 +1,3 @@
+Novidades:
+- Ao criar um workspace novo, dá pra escolher o tipo: "Normal" (padrão) ou "Whiteboard".
+- Workspace Whiteboard desabilita a criação de terminal e agente IA — só post-it, navegador, texto e desenho ficam disponíveis. Decisão fixa desde a criação.
