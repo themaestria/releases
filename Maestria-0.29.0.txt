@@ -1,0 +1,4 @@
+Novidades:
+- Duplo clique numa forma geométrica do modo de desenho (quadrado, retângulo, círculo, etc.) abre um texto editável centralizado dentro dela.
+- Menu Ajuda com link do repositório oficial no GitHub.
+- Painel Sobre mostra quem desenvolveu o app.
