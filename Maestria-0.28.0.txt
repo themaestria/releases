@@ -1,0 +1,9 @@
+Novidades:
+- Cada workspace lembra o tamanho de janela que você deixou nele, restaurando ao voltar (sempre limitado ao tamanho da tela).
+- Arrastar um workspace na lista lateral pra reordenar.
+- Botão de modo de desenho também no menu "+" da lateral direita.
+
+Corrigido:
+- Contagem de elementos na barra lateral não fica mais presa em valor antigo quando um workspace fica em segundo plano.
+- Contagem não conta mais textos livres (títulos/rótulos) como elemento.
+- Barra de menus simplificada: "Visualização" fundido em "Visualizar", "Licença" movido pro menu Maestria.
