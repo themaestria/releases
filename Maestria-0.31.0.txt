@@ -1,0 +1,2 @@
+Corrigido:
+- Clicar numa linha da lista de workspaces pra trocar de aba tinha parado de funcionar de forma confiável, o que também impedia o tamanho de janela por workspace de restaurar corretamente. Arrastar pra reordenar agora se faz pelo ícone à esquerda de cada linha; clicar em qualquer outro lugar troca de workspace normalmente.
