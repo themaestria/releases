@@ -1,0 +1,3 @@
+Correções:
+- O canvas de um workspace podia reabrir com um zoom bem diferente do que você tinha deixado antes de fechar o app (às vezes bem acima de 100%) — o zoom/posição salvos agora são sempre respeitados ao reabrir.
+- Ao arrastar um workspace pelo ícone pra reordenar a lista, o item sumia visualmente durante o arrasto e só reaparecia ao soltar — agora ele continua visível, sobrepondo os outros, seguindo o movimento até soltar.
