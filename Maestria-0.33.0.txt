@@ -1,0 +1,1 @@
+Painel de propriedades no modo de desenho (caneta, texto livre, post-it), seleção de laço, cadeado, ponteiro de laser, post-it configurável (fundo, precisão do traço, cantos, opacidade, camadas) e workspaces Whiteboard restritos ao modo de desenho.
