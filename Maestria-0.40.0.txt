@@ -1,0 +1,1 @@
+Corrige migração do fundo quadriculado: um Quadro Branco criado antes da v0.39.0 e deixado em branco manualmente voltava com a grade depois de atualizar.
