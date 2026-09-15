@@ -1,0 +1,1 @@
+Workspaces Quadro Branco ganham ícone próprio (quadrado único) e contagem de elementos de desenho na sidebar; texto de autoria atualizado pra edgo.app.br.
