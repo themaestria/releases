@@ -1,0 +1,1 @@
+Corrige o painel de propriedades do modo de desenho: agora encolhe pro tamanho do conteúdo (ex.: imagem só com Opacidade/Camadas) em vez de sempre ocupar o espaço máximo disponível.
