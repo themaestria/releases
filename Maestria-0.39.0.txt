@@ -1,0 +1,1 @@
+Fundo do canvas (grade quadriculada) agora é por workspace: Quadro Branco nasce em branco, Normal nasce quadriculado como sempre, e dá pra inverter por workspace no menu Visualizar.
