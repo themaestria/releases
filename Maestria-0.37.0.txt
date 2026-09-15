@@ -1,0 +1,1 @@
+Mover qualquer elemento do modo de desenho clicando e arrastando direto (sem selecionar antes), e redimensionar forma/imagem/quadro pelos 4 cantos com o desenho acompanhando o arrasto em tempo real.
