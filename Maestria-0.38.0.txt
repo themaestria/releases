@@ -1,0 +1,1 @@
+Corrige 3 bugs no modo de desenho: painel de propriedades cortado fora da janela, seleção/edição bloqueada com a barra de desenho aberta, e painel sumindo ao mover um elemento.

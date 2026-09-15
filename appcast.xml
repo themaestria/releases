@@ -3,6 +3,15 @@
     <channel>
         <title>Maestria</title>
         <item>
+            <title>0.38.0</title>
+            <pubDate>Tue, 15 Sep 2026 14:40:33 -0300</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>0.38.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/themaestria/releases/main/Maestria-0.38.0.txt</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/themaestria/releases/releases/download/v0.38.0/Maestria-0.38.0.dmg" length="4430366" type="application/octet-stream" sparkle:edSignature="FuxHXa2pp2+06R6sqvkSagQhkvyhvKoQFL2iCvXHuPFj8D1WrBVc1vAxghMfBQgvjZf23RbiHnUK+golqSWDBg=="/>
+        </item>
+        <item>
             <title>0.37.0</title>
             <pubDate>Tue, 15 Sep 2026 12:44:42 -0300</pubDate>
             <sparkle:version>37</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/themaestria/releases/main/Maestria-0.36.0.txt</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/themaestria/releases/releases/download/v0.36.0/Maestria-0.36.0.dmg" length="4404277" type="application/octet-stream" sparkle:edSignature="LgVXqH9TXCAauV31ayzZyW3dc0rtJfaO4Q1f/CIcDA335imlh6ve7SDg/tPBgmYG5i0RU4jUksSx9jPnRhsOCw=="/>
-        </item>
-        <item>
-            <title>0.35.0</title>
-            <pubDate>Tue, 15 Sep 2026 10:17:07 -0300</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>0.35.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/themaestria/releases/main/Maestria-0.35.0.txt</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/themaestria/releases/releases/download/v0.35.0/Maestria-0.35.0.dmg" length="4305541" type="application/octet-stream" sparkle:edSignature="av9Dyp4qdOeC9f1DvvDUZaZhzx9U3pHPyVD3fzDd6JNuMCF6oXwVWROMmDAh8ffrmh3vN4bjNjyn+18o5VjvDA=="/>
         </item>
     </channel>
 </rss>
