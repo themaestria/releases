@@ -1,0 +1,1 @@
+Inserir imagem e quadro de agrupamento no modo de desenho; painel de propriedades completo para forma/linha/seta (contorno, fundo, espessura, estilo e precisão do traço, arestas, opacidade, camadas).
