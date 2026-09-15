@@ -1,0 +1,1 @@
+Corrige bucket fill (ícone inválido e o preenchimento em si não funcionava) e adiciona importar diagrama Mermaid no modo de desenho, além de uma tool MCP nova pro node IA ler o wireframe.
