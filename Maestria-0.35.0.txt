@@ -1,0 +1,1 @@
+Bucket fill e draw to shape no modo de desenho: preencher regiões fechadas com a cor ativa, e traços à mão livre que viram formas geométricas automaticamente.
