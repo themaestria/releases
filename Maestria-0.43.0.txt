@@ -1,0 +1,1 @@
+Setas: quantas quiser entre os mesmos elementos, inclusive ida e volta (ficam lado a lado); setas não grudam mais umas nas outras e terminam na borda de círculos. Texto: duplo clique edita de primeira; com uma forma selecionada, Enter ou começar a digitar já edita. MCP: nova ferramenta create_drawing_elements para criar formas, textos, setas e quadros em lote.
